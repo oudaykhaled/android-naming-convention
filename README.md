@@ -5,7 +5,6 @@
 
 > See this [Package by feature, not layer][1] 
 
-<!--
  - `com.<COMPANY_NAME>.<PRODUCT_NAME>` - Contain Application class **only**
  - `com.<COMPANY_NAME>.<PRODUCT_NAME>.core` - Contain all core and boilerplate code, this package has the same structure of any feature.
  
@@ -26,7 +25,6 @@
   - `com.<COMPANY_NAME>.<PRODUCT_NAME>.presentation.ui.adapter` - Contains all UI adapters.
   - `com.<COMPANY_NAME>.<PRODUCT_NAME>.presentation.ui.fragment` - Contains all UI fragments.
   - `com.<COMPANY_NAME>.<PRODUCT_NAME>.presentation.viewmodel` - Contains
--->
 
 ## Naming Convention for Classes
 
